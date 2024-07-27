@@ -253,25 +253,17 @@ nav a:hover {
 @media only screen and (max-width: 750px) {
     .navbar {
       justify-content: center;
-      height: 100px;
-      position: fixed;
     }
     .logo {
-      max-height: 45px;
-      margin-top: 5px;
       margin-left: 0;
     }
     .nav {
       display: none;
     }
-    .about-us {
-      height: 80vh;
-    }
     .texto-que-es {
       font-size: 14pt;
       margin: auto 15%;
       line-height: 1.5;
-      height: 80vh;
     }
     .titulo {
       font-size: 20pt;
